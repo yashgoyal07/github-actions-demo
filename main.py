@@ -8,7 +8,7 @@ def prod(a, b):
     return a * b
 
 def SayHello():
-        print("Ram Ram Ji")
+        print("Ram Ram Ji. Kya Haal Chaal Hai.")
 
 if __name__ == '__main__':
         SayHello()
